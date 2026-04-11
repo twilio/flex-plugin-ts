@@ -25,11 +25,11 @@
     "react": "16.5.2",
     "react-dom": "16.5.2",
     "react-emotion": "9.2.6",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.0",
     "typescript": "^3.6.4"
   },
   "devDependencies": {
-    "@twilio/flex-ui": "^1",
+    "@twilio/flex-ui": "^2.7.0",
     "@types/enzyme": "^3.10.3",
     "@types/jest": "^24.0.18",
     "@types/node": "^12.7.12",
